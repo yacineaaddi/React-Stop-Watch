@@ -1,6 +1,6 @@
-# 📦 React Task Tracker
+# 📦 React Stop Watch
 
-A travel destination application built with HTML, CSS, React, and JavaScript. This app allows users to explore popular travel destinations, view details, and get inspired for their next trip.
+A simple stopwatch application built with HTML, CSS, React, and JavaScript. This app allows users to start, stop, and reset a timer, making it useful for tracking time intervals.
 
 ## 🔗 Demo
 
@@ -8,26 +8,26 @@ _A live demo link will be added here soon._
 
 ## ✨ Features
 
-- **Destination Listings** : Browse a collection of popular travel destinations.
+- **Start / Stop / Reset** : Control the timer with ease.
 
-- **Destination Details** : View location highlights, descriptions, and images.
+- **Accurate Time Tracking** : Measures elapsed time in seconds and milliseconds.
 
-- **Responsive Design** : Optimized for desktops, tablets, and mobile devices.
+- **User-Friendly Interface** : Minimal and clean design for ease of use.
 
-- **Reusable Components** : Built with React for scalability and maintainability.
+- **Responsive Design** : Works seamlessly on all devices and screen sizes.
 
 ## ⚙️ Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yacineaaddi/React-Travel-App.git
+   git clone https://github.com/yacineaaddi/React-Stop-Watch.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd React-Travel-App
+   cd React-Stop-Watch
    ```
 
 3. Install dependencies:
@@ -43,28 +43,24 @@ _A live demo link will be added here soon._
 
 ## 🛠️ Technologies Used
 
-- 💻 HTML : Structure of the application.
+- 💻 HTML : For structuring the content.
 
-- 🎨 CSS : Styling and layout.
+- 🎨 CSS : For styling and layout.
 
-- ⚙️ JavaScript : Functionality and interactivity.
+- ⚙️ JavaScript : For stopwatch logic.
 
-- ⚛️ React : Component-based UI development.
+- ⚛️ React : For building the interactive UI.
 
 ## 📁 Folder Structure
 
 ```
-React-Travel-App/
+React-Stop-Watch/
 ├── public/
 │   ├── index.html
 │   └── favicon.ico
 ├── src/
 │   ├── Components/
-│   │   ├── Navbar.js
-│   │   ├── Hero.js
-│   │   ├── Destinations.js
-│   │   ├── Footer.js
-│   │   └── ...
+│   │   └── Stopwatch.js
 │   ├── App.js
 │   ├── index.js
 │   └── styles.css
@@ -87,4 +83,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Yacine Aaddi - [yacineaaddi@gmail.com](mailto:yacineaaddi@gmail.com)
 
-Project Link: [https://github.com/yacineaaddi/React-Travel-App](https://github.com/yacineaaddi/React-Travel-App)
+Project Link: [https://github.com/yacineaaddi/React-Stop-Watch](https://github.com/yacineaaddi/React-Travel-App)
