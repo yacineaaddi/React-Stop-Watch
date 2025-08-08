@@ -59,11 +59,9 @@ React-Stop-Watch/
 │   ├── index.html
 │   └── favicon.ico
 ├── src/
-│   ├── Components/
-│   │   └── Stopwatch.js
 │   ├── App.js
-│   ├── index.js
-│   └── styles.css
+│   ├── App.css
+│   └── index.css
 ├── package.json
 ├── package-lock.json
 ├── README.md
@@ -83,4 +81,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Yacine Aaddi - [yacineaaddi@gmail.com](mailto:yacineaaddi@gmail.com)
 
-Project Link: [https://github.com/yacineaaddi/React-Stop-Watch](https://github.com/yacineaaddi/React-Travel-App)
+Project Link: [https://github.com/yacineaaddi/React-Stop-Watch](https://github.com/yacineaaddi/React-Stop-Watch)
